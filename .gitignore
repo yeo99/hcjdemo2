@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,intellij,vue,vuejs,git,windows,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=node,visualstudiocode,intellij,vue,vuejs,git,windows,macos
+# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,git,visualstudiocode,intellij,node,vue,vuejs
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,git,visualstudiocode,intellij,node,vue,vuejs
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
@@ -365,4 +365,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,intellij,vue,vuejs,git,windows,macos
+# End of https://www.toptal.com/developers/gitignore/api/windows,macos,git,visualstudiocode,intellij,node,vue,vuejs
