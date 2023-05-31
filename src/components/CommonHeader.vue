@@ -13,7 +13,7 @@
           <h4 class="text-white">Contact</h4>
           <ul class="list-unstyled">
             <li><a target="_blank" href="https://github.com/yeo99" class="text-white">Follow on Github</a></li>
-            <li><a target="_blank" href="http://cris.joongbu.ac.kr/" class="text-white">Personal page of Professor</a></li>
+            <li><a target="_blank" href="http://cris.joongbu.ac.kr/" class="text-white">Personal page of professor</a></li>
             <!-- <li><a href="#" class="text-white">Email me</a></li> -->
           </ul>
         </div>
