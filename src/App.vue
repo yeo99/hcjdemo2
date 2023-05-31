@@ -67,8 +67,8 @@
       <CommonMainDivider/>
 
       <CommonMain
-        title="인증서 발급"
-        content="인증서 발급을 체험해볼 수 있습니다."
+        title="전자서명 로그인"
+        content="전자서명 로그인을 체험해 볼 수 있습니다."
       />
       <CommonMainDivider/>
 
@@ -166,14 +166,11 @@ export default {
 
       const pemCertificate = forge.pki.certificateToPem(cert);
       const pemPrivateKey = forge.pki.privateKeyToPem(keys.privateKey);
-      console.log(attrs)
+      
+      // 인증서, 사설키, 공개키
       this.certificate = pemCertificate;
       this.privateKey = pemPrivateKey;
       this.publicKey = forge.pki.publicKeyToPem(keys.publicKey);  // PEM형식으로 변환해서 보여줌
-
-      console.log('인증서: ', this.certificate)
-      console.log('사설키: ', this.privateKey)
-      console.log('공개키: ', this.publicKey)
     }
   },
 };
